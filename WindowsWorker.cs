@@ -49,7 +49,7 @@ namespace keep_alive_bymake_nova
                     {
                         //SetForegroundWindow(hWnd);
                         ShowWindow(hWnd, SW_RESTORE);
-                        sim.Mouse.RightButtonDoubleClick();
+                        //sim.Mouse.RightButtonDoubleClick();
                         ShowWindow(hWnd, SW_MINIMIZE);
                     }
                 }
